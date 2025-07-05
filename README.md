@@ -1,2 +1,2 @@
 # LU_Decomposition
-This repository houses the code of LU decomposition using Doolittle method.
+The following code applies LU decomposition using Doolittle method to solve a system of linear equations in matrix form.
